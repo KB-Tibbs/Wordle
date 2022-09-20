@@ -7,16 +7,16 @@ Submitted by: **Kenneth Burwell-Tibbs**
 
 **Name of your app** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
 
-Time spent: **3-4** hours spent in total
+Time spent: **7-8** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **User has 3 chances to guess a random 4 letter word**
-- [ ] **After 3 guesses, user should no longer be able to submit another guess**
-- [ ] **After each guess, user sees the "correctness" of the guess**
-- [ ] **After all guesses are taken, user can see the target word displayed**
+- [?] **User has 3 chances to guess a random 4 letter word**
+- [?] **After 3 guesses, user should no longer be able to submit another guess**
+- [?] **After each guess, user sees the "correctness" of the guess**
+- [?] **After all guesses are taken, user can see the target word displayed**
 
 The following **optional** features are implemented:
 
@@ -48,7 +48,7 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
-*Still have some features to code. Such as check guesses function and enforce limits function
+I was able to fix and include all the necessary functions for the app, but I couldn’t get my compiler to run the app. I was able to load the emulator, but app wouldn’t load up. I’m still confused because the app had no functionality errors.
 
 ## License
 
@@ -65,4 +65,3 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-
